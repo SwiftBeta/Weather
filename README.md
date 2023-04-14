@@ -1,4 +1,4 @@
-# 🧮 Aprende a crear una app del PRONÓSTICO DEL TIEMPO (Swift y SwiftUI)
+# ☀️ Aprende a crear una app del PRONÓSTICO DEL TIEMPO (Swift y SwiftUI)
 [![Twitter Follow](https://img.shields.io/twitter/follow/swiftbeta_?style=social)](https://twitter.com/swiftbeta_)
 <br/>
 [![Youtube Views](https://img.shields.io/youtube/channel/views/UC2MAP8k0bzwq_OAA_zQw27A?style=social)](https://twitter.com/swiftbeta)
@@ -11,7 +11,7 @@
 
 Aprende a crear una app del pronóstico del tiempo en Swift y SwiftUI.
 <br/>
-Usamos la ⛩️ Arquitectura Model-View-ViewModel (MVVM) en SwiftUI
+Usamos la ⛩️ Arquitectura Model-View-ViewModel (MVVM) en SwiftUI.
 <br/>
 <br/>
 Aquí te dejo un demo 👇
